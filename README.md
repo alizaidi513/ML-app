@@ -57,5 +57,6 @@ ML-app/
 ├── README.md               # You're reading it!
 ├── data/                   # (Optional) Kragle datasets
 
-![image](https://github.com/user-attachments/assets/240c97d8-ef88-42ac-9ef9-12c1ac30e835)
+
+
 
