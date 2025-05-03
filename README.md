@@ -12,7 +12,7 @@ Welcome to my interactive Machine Learning application for financial data analys
 - **Instructor:** Dr. Usama Arshad (Assistant Professor, FSM)  
 - **Program:** BS Financial Technology (BSFT)  
 - **Semester:** Spring 2025  
-- **Sections:** BSFT06A, BSFT06B, BSFT06C  
+- **Sections:**  BSFT06C  
 
 ---
 
